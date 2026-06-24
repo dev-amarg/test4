@@ -9,7 +9,7 @@ const port = 3001;
 
 
 app.get('/', (req, res) => {
-  res.send('Hello Docker Compose1 Node + MongoDB');
+  res.send('Hello Docker Compose1 Node + MongoDB 3001');
 });
 
 
